@@ -31,4 +31,3 @@ npm install
     ├─router
     └─store 
 ```
-
